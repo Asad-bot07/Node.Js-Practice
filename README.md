@@ -42,5 +42,4 @@ node ToDo.js Help
 
 ---
 
-Let me know if you'd like to add a **GitHub-friendly header**, badge, or maybe link this to your portfolio/journey later!
 
