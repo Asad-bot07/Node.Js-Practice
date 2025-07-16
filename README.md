@@ -32,7 +32,7 @@ Make sure you have Node.js installed.
 
 Create a file called `ToDo.json` and put an empty array in it to start:
 
-```json
+```bash
 []
 node ToDo.js Add "Welcome to Asad's Repository"
 node ToDo.js Remove 1
